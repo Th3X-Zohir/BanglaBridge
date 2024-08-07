@@ -1,6 +1,6 @@
 Sure, here's a sample `README.md` file for your project:
 
-````
+````markdown
 # BanglaBridge Chat Application
 
 BanglaBridge is a real-time chat application that allows users to join rooms, communicate seamlessly, and stay connected. It also includes an admin interface for monitoring active rooms and viewing ongoing chats.
