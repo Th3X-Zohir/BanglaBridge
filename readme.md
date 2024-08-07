@@ -1,6 +1,3 @@
-Sure, here's a sample `README.md` file for your project:
-
-````markdown
 # BanglaBridge Chat Application
 
 BanglaBridge is a real-time chat application that allows users to join rooms, communicate seamlessly, and stay connected. It also includes an admin interface for monitoring active rooms and viewing ongoing chats.
@@ -30,11 +27,11 @@ BanglaBridge is a real-time chat application that allows users to join rooms, co
 ### Installation
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/your-username/banglabridge.git
    cd banglabridge
    ```
-````
 
 2. Install dependencies
 
